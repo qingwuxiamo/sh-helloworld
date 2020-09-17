@@ -9,4 +9,7 @@ public class java01 {
     void add(){
         System.out.println("添加购物车");
     }
+    void change(){
+        System.out.println("修改");
+    }
 }
